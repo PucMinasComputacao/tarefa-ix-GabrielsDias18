@@ -9,6 +9,12 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Gabriel Silva Dias
+- Matricula: 913811
 
+
+### Catálogo de Cards e Detalhes do Produto
+![alt text](image.png)
+
+### Console do Navegador (Listagem via querySelectorAll)
+![alt text](image-1.png)
